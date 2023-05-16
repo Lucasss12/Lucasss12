@@ -2,7 +2,7 @@
         <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="220"/>
     </div>
 <h1 align="center">I'm Lxcas</h1>
-<h3 align="center">Currently training to become a fullstack developer at The_Hacking_Project 👨‍💻</h3>
+<h3 align="center">Developper web full-stack JS 👨‍💻</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
