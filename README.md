@@ -1,7 +1,7 @@
-Hi 👋 My name is Lucas Méné
+Hey 👋, I'm Lucas
 ===========================
 
-Développeur front-end
+Frontend developer
 ---------------------
 
 I'm the developer you need 😎
