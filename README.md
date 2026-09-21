@@ -2,7 +2,7 @@
 
 
 ### Currently
-- **Learning Rust** - because it looked fun, [learning repo here](https://github.com/Lucasss12/learning-rust)
+- **Building my first CLI app in Rust** - (repo public soon)
 - **Open-source projects** (soon)
 - **Freelance** - available for new projects
 
