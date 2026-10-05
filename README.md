@@ -2,7 +2,7 @@
 
 
 ### Currently
-- **Building my first CLI app in Rust** - [(Rully)](https://github.com/Lucasss12/Rully)
+- **Building my first CLI app in Rust** - [Rully](https://github.com/Lucasss12/Rully)
 - **Open-source projects** (soon)
 - **Freelance** - available for new projects
 
